@@ -58,8 +58,8 @@ console.log(color(figlet.textSync('NEOBOTV3', {
 		whitespaceBreak: true
         }), 'yellow'))
         
-console.log(color('\nCreated By Lexxy Official ','silver'))
-console.log(color('NeobotzMD : Version 3.0.0\n','silver'))
+console.log(color('\nCreated By TuRu ','silver'))
+console.log(color('TuRubotzMD : Version 3.0.0\n','silver'))
         
     const neobot = neobotConnect({
         logger: pino({ level: 'silent' }),
