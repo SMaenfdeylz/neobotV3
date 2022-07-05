@@ -1,5 +1,5 @@
 {
-  "name": "NEOBOT",
+  "name": "TuRu BOT",
   "version": "3.0.0",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Lexxy Official",
+  "author": "TuRu",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
@@ -70,10 +70,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lexxy24/Neoxy-Base.git"
+    "url": "git+https://github.com/"
   },
   "bugs": {
-    "url": "https://github.com/Lexxy24/Neoxy-Base/issues"
+    "url": "https://github.com/"
   },
-  "homepage": "https://github.com/Lexxy24/Neoxy-Base#readme"
+  "homepage": "https://github.com/#readme"
 }
